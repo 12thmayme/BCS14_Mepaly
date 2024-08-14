@@ -1,0 +1,34 @@
+.margin_demo {
+    background-color: green;
+    height: 800px;
+}
+
+.margin1 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    /* margin is the attribute to create distance from other components */
+    /* margin co mot so cach truyen gia tri nhuL 2 gia tri tren(tren duoi va trai phai), 3 va 4 gia tri thi chinh chieu kim dong ho bat dau tu top */
+    margin: 20px 40px 60px;
+}
+
+.margin2 {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    color: white;
+    /* padding - top/left/right/bottom */
+    /* box-sizing: border-box  */
+}
+
+.demo_boxsizing {
+    background-color: brown;
+    height: 200px;
+}
+
+.demo_box1 {
+    width: 24%;
+    height: 150px;
+    display: inline-block;
+    background-color: blue;
+}
